@@ -3,12 +3,11 @@
 | Student name:                       |           |
 |-------------------------------------|-----------|	
 |CENG 317 Hardware Project            |           |
-| Section Letter Code:                |   B       |
+| Section Letter Code:                |          |
 |CENG 322 Software Project            |           |
 | Semester enrolled:                  |           |
 | Section Letter Code:                |           |
 |Project choice on bb discussion board|           |
-Sheets will be collected at 4pm you can continue to make your decision for the rest of this week:	
 
 ## Possible choices:   
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
