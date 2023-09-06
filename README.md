@@ -10,7 +10,7 @@
 |Project choice on bb discussion board|           |
 Sheets will be collected at 4pm you can continue to make your decision for the rest of this week:	
 
-Possible choices:   
+## Possible choices:   
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
 https://www.sparkfun.com/categories/tags/qwiic-distance   
 https://www.sparkfun.com/categories/tags/qwiic-movement   
@@ -33,7 +33,7 @@ When choosing a sensor/effector Consider your interest, cost, the I2C address, f
 https://www.sparkfun.com/categories/tags/qwiic-gps   
 0x10 XA1110 GPS Breakout, not a good choice since we don't have access to a solid GPS signal in the classroom.   
 
-
+## More options:
 SparkFun Qwiic Adapter for non-qwiic sensors https://www.sparkfun.com/products/14495   
     9DoF Stick IMU - LSM9DS1   
     9DoF IMU - MPU-9250   
