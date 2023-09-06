@@ -8,7 +8,7 @@
 | Semester enrolled:                  |           |
 | Section Letter Code:                |           |
 |Project choice on bb discussion board|           |
-
+Sensor/effector name and I2C address:
 ## Possible choices:   
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
 https://www.sparkfun.com/categories/tags/qwiic-distance   
