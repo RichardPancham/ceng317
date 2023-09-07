@@ -12,6 +12,7 @@ Currently getting up to speed with the state of the art has been a challenge let
 
 Regarding a more accessible project example, there was a time that one would go to a bicycle rental company's shack, provide something of value as a deposit and the person working at the shack would provide a bicycle on the understanding that you would return it along with payment for the amount of time that you used it in exchange for return of your deposit.
 ![Toronto Island](https://www.torontoisland.com/images/bike/IMG_1697.JPG)
+
 Times have changed, now you use your smart phone to provide your credit card information to the bicycle rental company and then you are provided the code to unlock a bicycle and you are charged based on when you next lock it up.
 ![dropbike](https://humber.ca/staff/sites/default/files/sub-images/dropbike%20lake%20and%20north.jpg)
 
