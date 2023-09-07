@@ -1,5 +1,7 @@
 # CENG 317 First Class Fall 2023 Submission Sheet
 
+[Project Introduction](https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md)   
+   
 | Student name:                       |           |
 |-------------------------------------|-----------|	
 |CENG 317 Hardware Project            |           |
