@@ -25,6 +25,6 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 
 - Overall project maximum dimensions of 12 13/16" x 6" x 2 7/8" (32.5cm x 15.25cm x 7.25cm) which represents the space below the tray in the parts kit.
 - Project case to be designed for 3D printing/laser cutting.
-- The highest AC voltage that will be used is 16Vrms from a wall adaptor from which +/- 15V or as high as 45 VDC can be obtained. Maximum power consumption will be 20 Watts.
+- Keeping safety and Z462 in mind, the highest AC voltage that is to be used is 16Vrms from a wall adapter from which +/- 15V or as high as 45 VDC can be obtained. Maximum power consumption is to be 20 Watts.
 - We work with prototypes and prototypes are not to be left powered unattended.
 
