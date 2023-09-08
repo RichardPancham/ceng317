@@ -124,4 +124,4 @@ MS5607/MS5611 Barometric Pressure (0x76)
 BME280 Temp/Barometric/Humidity (0x77)   
 PN532 NFC/RFID reader (Use UART pins 8:TX and 10:RX)   
 
-Consider adding: a spare header, an npn transistor and connect the LED with series 330 Ohm resistor on the collector side and the emitter to the ground, 2.2 kohm resistor between the GPIO and the base of the transistor.
+Consider adding: a spare header, an npn transistor with a 2.2 kOhm resistor between the GPIO and the base of the transistor, connect the emitter to the ground, and connect an LED with a series 330 Ohm resistor on the collector side.
