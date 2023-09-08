@@ -52,7 +52,19 @@ LSM9DS1 IMU magnetometer 0x1c(0x1e) and accelerometer/gyroscope 0x6a(0x6b)
 LPS25H Pressure/Temperature sensor (0x5c)   
 HTS221 Humidity/Temperature sensor (0x5f)   
 
-## Additional sensor/effector choices:
+## Additional sensor/effector options include:
+Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Black for GND, Red for V+, Blue for SDA, Yellow for SCL). Keep in mind the logic on the Raspberry Pi is 3.3V only.
+1. [BH1750 16-bit Ambient Light Sensor](https://learn.adafruit.com/adafruit-bh1750-ambient-light-sensor?view=all) Default I2C address 0x23 (alternate 0x5C)
+2. SparkFun Qwiic OLED (0x3C for 128x32)
+3. TSL2561 - Digital Luminosity/Lux/Light Sensor (0x39-floating, 0x29-gnd, or 0x49-3.3V)
+4. TCS34725 Colour Sensor (0x29)
+5. Total Dissolved Solids-ADC Converter (CQRSENTDS01 and ADS1115) (0x48, switchable to 0x49)
+6. ADXL-345 Accelerometer (0x53)
+7. TMP006 Contact-less Infrared Thermopile Sensor (0x40)
+8. MAX30102 Oximeter and Heart Rate Sensor (0x57)
+9. 
+
+## Sensor/effector choices:
 1. Jared Craig [SparkFun Photodetector Breakout - MAX30101 (Qwiic)](https://www.sparkfun.com/products/16474) (0x57)
 2. Robert Rowlison [SparkFun Ambient Light Sensor - VEML6030 (Qwiic)](https://www.sparkfun.com/products/15436) (0x48)
 3. Faraz Ahmed [SparkFun Qwiic Mini ToF Imager - VL53L5CX](https://www.sparkfun.com/products/19013) (0x52)
