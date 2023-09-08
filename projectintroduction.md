@@ -76,7 +76,8 @@ https://www.sparkfun.com/categories/tags/qwiic-environmental
 https://www.sparkfun.com/categories/tags/qwiic-other   
 When choosing a sensor/effector Consider your interest, cost, the I2C address, for example:   
 https://www.sparkfun.com/categories/tags/qwiic-gps   
-0x10 XA1110 GPS Breakout, not a good choice since we don't have access to a solid GPS signal in the classroom.   Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Black for GND, Red for V+, Blue for SDA, Yellow for SCL). Keep in mind the logic on the Raspberry Pi is 3.3V only.
+0x10 XA1110 GPS Breakout, not a good choice since we don't have access to a solid GPS signal in the classroom.   
+Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Black for GND, Red for V+, Blue for SDA, Yellow for SCL). Keep in mind the logic on the Raspberry Pi is 3.3V only.
 1. [BH1750 16-bit Ambient Light Sensor](https://learn.adafruit.com/adafruit-bh1750-ambient-light-sensor?view=all) Default I2C address 0x23 (alternate 0x5C)
 2. SparkFun Qwiic OLED (0x3C for 128x32)
 3. TSL2561 - Digital Luminosity/Lux/Light Sensor (0x39-floating, 0x29-gnd, or 0x49-3.3V)
