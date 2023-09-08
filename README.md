@@ -1,17 +1,19 @@
-[Project Introduction](https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md)   
-   
 # CENG 317 First Class Fall 2023 Submission Sheet
 
-| Student name:                       |           |
-|-------------------------------------|-----------|	
-|CENG 317 Hardware Project            |           |
-| Section Letter Code:                |          |
-|CENG 322 Software Project            |           |
-| Semester enrolled:                  |           |
-| Section Letter Code:                |           |
-|Project choice on bb discussion board|           |
-Sensor/effector name and I2C address:
+| Student name:                        |           |
+|--------------------------------------|-----------|	
+|CENG 317 Hardware Project             |           |
+| Section Letter Code:                 |           |
+|CENG 322 Software Project             |           |
+| Semester enrolled:                   |           |
+| Section Letter Code:                 |           |
+|Project choice on bb discussion board |           |
+| Sensor/effector name:                |           |
+| I2C address:                         |           |
+| a link to where you will buy it from:|           |
 ## Possible choices:   
+See [Project Introduction](https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md)   
+
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
 https://www.sparkfun.com/categories/tags/qwiic-distance   
 https://www.sparkfun.com/categories/tags/qwiic-movement   
