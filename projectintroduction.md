@@ -64,7 +64,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 8. MAX30102 Oximeter and Heart Rate Sensor (0x57)
 9. 
 
-## Sensor/effector choices:
+## Fall 2023 Sensor/effector choices:
 1. Jared Craig [SparkFun Photodetector Breakout - MAX30101 (Qwiic)](https://www.sparkfun.com/products/16474) (0x57)
 2. Robert Rowlison [SparkFun Ambient Light Sensor - VEML6030 (Qwiic)](https://www.sparkfun.com/products/15436) (0x48)
 3. Faraz Ahmed [SparkFun Qwiic Mini ToF Imager - VL53L5CX](https://www.sparkfun.com/products/19013) (0x52)
