@@ -28,6 +28,15 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 - Keeping safety and Z462 in mind, the highest AC voltage that is to be used is 16Vrms from a wall adapter from which +/- 15V or as high as 45 VDC can be obtained. Maximum power consumption is to be 20 Watts.
 - We work with prototypes and prototypes are not to be left powered unattended.
 
+## Project Examples
+- Automated plant watering system
+- Living environment monitoring system
+- Pet food dispenser
+- Aquarium monitor
+- Wellness monitor
+- Envirorover which measures temperature, humidity, and light as it moves
+- Waste bin monitoring system
+
 ## Your Existing Sense Hat
 In addition to power and ground the sense hat uses:   
 pin 3 -- GPIO2 or SDA   
@@ -43,11 +52,14 @@ LSM9DS1 IMU magnetometer 0x1c(0x1e) and accelerometer/gyroscope 0x6a(0x6b)
 LPS25H Pressure/Temperature sensor (0x5c)   
 HTS221 Humidity/Temperature sensor (0x5f)   
 
-## Project Examples
-- Automated plant watering system
-- Living environment monitoring system
-- Pet food dispenser
-- Aquarium monitor
-- Wellness monitor
-- Envirorover which measures temperature, humidity, and light as it moves
-- Waste bin monitoring system
+## Additional sensor/effector choices:
+1. Jared Craig [SparkFun Photodetector Breakout - MAX30101 (Qwiic)](https://www.sparkfun.com/products/16474) (0x57)
+2. Robert Rowlison [SparkFun Ambient Light Sensor - VEML6030 (Qwiic)](https://www.sparkfun.com/products/15436]) (0x48)
+3. Faraz Ahmed [SparkFun Qwiic Mini ToF Imager - VL53L5CX](https://www.sparkfun.com/products/19013) (0x52)
+4. Nathaniel Lozano [SparkFun 9DoF IMU Breakout - ICM - 20948](https://www.sparkfun.com/products/15335) (0x69, 0x68 with Jumper)
+5. Abdicasis Ali [SparkFun Temperature Sensor - STTS22H (Qwiic)](https://www.sparkfun.com/products/21262) (0x3C)
+6. Kaiden Phillip [SparkFun RFID Qwiic Reader](https://www.sparkfun.com/products/15191) (0x7D)
+7. Damanpreet Singh [SparkFun Spectral Sensor Breakout - AS7262 Visible (Qwiic)](https://www.sparkfun.com/products/14347) (0x49)
+8. Illia Popov [Ultrasonic Distance Sensor with I2C Interface](https://www.adafruit.com/product/4742) (0x57 doesn't share I2C 100%)
+9. Aaron Morris Jara [Person Sensor by Useful Sensors](https://www.sparkfun.com/products/21231) (0x62)
+10. Muhammad Desai [SparkFun Humidity Sensor Breakout](https://www.sparkfun.com/products/16467) (0x70)
