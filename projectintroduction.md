@@ -49,10 +49,16 @@ pin 27 -- GPIO0 (or maybe ID_SD or maybe EEPROM SDA or maybe HAT ID)
 pin 28 -- GPIO1 (or maybe ID_SC or maybe EEPROM SCL or maybe HAT ID)   
 LED2472G connected via an Atmel ATTINY88 (0x46)   
 LSM9DS1 IMU magnetometer 0x1c(0x1e) and accelerometer/gyroscope 0x6a(0x6b)   
+[9DoF Stick IMU - LSM9DS1 SparkFun Retired Product equivalent to that on the sense hat](https://www.sparkfun.com/products/13944)   
 LPS25H Pressure/Temperature sensor (0x5c)   
 HTS221 Humidity/Temperature sensor (0x5f)   
 
 ## Additional sensor/effector options include:
+https://www.sparkfun.com/categories/tags/qwiic-imaging   
+https://www.sparkfun.com/categories/tags/qwiic-distance   
+https://www.sparkfun.com/categories/tags/qwiic-movement   
+https://www.sparkfun.com/categories/tags/qwiic-environmental   
+https://www.sparkfun.com/categories/tags/qwiic-other   
 Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Black for GND, Red for V+, Blue for SDA, Yellow for SCL). Keep in mind the logic on the Raspberry Pi is 3.3V only.
 1. [BH1750 16-bit Ambient Light Sensor](https://learn.adafruit.com/adafruit-bh1750-ambient-light-sensor?view=all) Default I2C address 0x23 (alternate 0x5C)
 2. SparkFun Qwiic OLED (0x3C for 128x32)
@@ -62,7 +68,30 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 6. ADXL-345 Accelerometer (0x53)
 7. TMP006 Contact-less Infrared Thermopile Sensor (0x40)
 8. MAX30102 Oximeter and Heart Rate Sensor (0x57)
-9. 
+9. [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495)   
+    [9DoF IMU - MPU-9250](https://www.sparkfun.com/products/15335)   
+    [6DoF IMU - LSM303C SparkFun Retired Product](https://www.sparkfun.com/products/retired/13303)   
+    6[DoF IMU - LSM6DS3](https://www.sparkfun.com/products/18020)   
+    [Triple Axis Accelerometer - LIS3DH](https://www.sparkfun.com/products/13963)   
+    [Triple Axis Magnetometer - MAG3110 SparkFun Retired Product](https://www.sparkfun.com/products/retired/12670)   
+    [Triple Axis Magnetometer - MLX90393 SparkFun Retired Product](https://www.sparkfun.com/products/retired/14160)   
+    [Compass Module - HMC6343](https://www.sparkfun.com/products/12916)   
+    [Atmospheric Sensor - BME280](https://www.sparkfun.com/products/13676)   
+    [Barometric Pressure Sensor - MS5803-14BA](https://www.sparkfun.com/products/12909)   
+    [Barometric Pressure Sensor - T5403 SparkFun Retired Product](https://www.sparkfun.com/products/retired/12039)   
+    [Humidity and Temperature Sensor - Si7021](https://www.sparkfun.com/products/13763)   
+    [Digital Temperature Sensor - TMP102](https://www.sparkfun.com/products/13314)   
+    [Particle Sensor - MAX30105](https://www.sparkfun.com/products/16474)   
+    [Air Quality Sensor - CCS811 SparkFun Retired Product](https://www.sparkfun.com/products/retired/14181)   
+    [ToF Range Finder - VL6180](https://www.sparkfun.com/products/12785)   
+    [Haptic Motor Driver - DRV2605L](https://www.sparkfun.com/products/14538)   
+    [Micro OLED Display](https://www.sparkfun.com/products/13003)   
+    [RGB and Gesture Sensor - APDS-9960](https://www.sparkfun.com/products/12787)   
+    [RGB Light Sensor - ISL29125](https://www.sparkfun.com/products/12829)   
+    [LED Driver - LP55231](https://www.sparkfun.com/products/13884)   
+    [DAC Breakout - MCP4725](https://www.sparkfun.com/products/12918)   
+    [16 Output I/O Expander - SX1509](https://www.sparkfun.com/products/13601)   
+    [Battery Babysitter - BQ24075](https://www.sparkfun.com/products/13777)   
 
 ## Fall 2023 Sensor/effector choices:
 1. Jared Craig [SparkFun Photodetector Breakout - MAX30101 (Qwiic)](https://www.sparkfun.com/products/16474) (0x57)
