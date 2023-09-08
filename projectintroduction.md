@@ -28,7 +28,7 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 - Keeping safety and Z462 in mind, the highest AC voltage that is to be used is 16Vrms from a wall adapter from which +/- 15V or as high as 45 VDC can be obtained. Maximum power consumption is to be 20 Watts.
 - We work with prototypes and prototypes are not to be left powered unattended.
 
-## Your existing sense hat
+## Your Existing Sense Hat
 In addition to power and ground the sense hat uses:   
 pin 3 -- GPIO2 or SDA   
 pin 5 -- GPIO3 or SCL   
