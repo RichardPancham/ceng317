@@ -36,6 +36,15 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 - Wellness monitor
 - Envirorover which measures temperature, humidity, and light as it moves
 - Waste bin monitoring system
+- Sailing race start signal system
+- Autonomous Electric Vehicle
+- Microwave
+- Traffic light
+- Traffic counter
+- IoT Home Appliance
+- Vending Machine
+- Book/Equipment Sign-out System
+- Air monitoring
 
 ## Your Existing Sense Hat
 In addition to power and ground the sense hat uses:   
