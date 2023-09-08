@@ -42,3 +42,12 @@ LED2472G connected via an Atmel ATTINY88 (0x46)
 LSM9DS1 IMU magnetometer 0x1c(0x1e) and accelerometer/gyroscope 0x6a(0x6b)   
 LPS25H Pressure/Temperature sensor (0x5c)   
 HTS221 Humidity/Temperature sensor (0x5f)   
+
+## Project Examples
+- Automated plant watering system
+- Living environment monitoring system
+- Pet food dispenser
+- Aquarium monitor
+- Wellness monitor
+- Envirorover which measures temperature, humidity, and light as it moves
+- Waste bin monitoring system
