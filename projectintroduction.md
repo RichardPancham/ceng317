@@ -38,11 +38,11 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 - Waste bin monitoring system
 - Sailing race start signal system
     - [Drawing](https://buckeyelakeyc.com/wp-content/uploads/2020/02/RC_Drawing.png), [Actual](http://www.sail.ie/speedtips/speedtips_images/favour18.jpg)
-    - -1 Attention Signal 4 Horns
-    - 0 Red Shape up Horn Warning Signal
-    - 1 P Flag Up Horn Preparatory Signal
-    - 4 P Flag Down Long Horn One to go warning
-    - 5 Red Shape down Horn Start
+    - -1 *Attention Signal* 4 Horns
+    - 0 *Warning Signal* Red Shape up, Horn 
+    - 1 *Preparatory Signal* P Flag Up, Horn 
+    - 4 *One to go warning* P Flag Down, Long Horn 
+    - 5 *Start* Red Shape down, Horn 
 - Autonomous Electric Vehicle
 - Microwave
 - Traffic light
