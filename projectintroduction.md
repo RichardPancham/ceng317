@@ -71,7 +71,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 9. [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495)   
     [9DoF IMU - MPU-9250](https://www.sparkfun.com/products/15335)   
     [6DoF IMU - LSM303C SparkFun Retired Product](https://www.sparkfun.com/products/retired/13303)   
-    6[DoF IMU - LSM6DS3](https://www.sparkfun.com/products/18020)   
+    [6DoF IMU - LSM6DS3](https://www.sparkfun.com/products/18020)   
     [Triple Axis Accelerometer - LIS3DH](https://www.sparkfun.com/products/13963)   
     [Triple Axis Magnetometer - MAG3110 SparkFun Retired Product](https://www.sparkfun.com/products/retired/12670)   
     [Triple Axis Magnetometer - MLX90393 SparkFun Retired Product](https://www.sparkfun.com/products/retired/14160)   
