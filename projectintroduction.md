@@ -28,3 +28,17 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 - Keeping safety and Z462 in mind, the highest AC voltage that is to be used is 16Vrms from a wall adapter from which +/- 15V or as high as 45 VDC can be obtained. Maximum power consumption is to be 20 Watts.
 - We work with prototypes and prototypes are not to be left powered unattended.
 
+## Your existing sense hat
+In addition to power and ground the sense hat uses:   
+pin 3 -- GPIO2 or SDA   
+pin 5 -- GPIO3 or SCL   
+pin 16 -- GPIO23 (IMU Interrupt)   
+pin 18 -- GPIO24 (IMU Interrupt)   
+pin 22 -- GPIO25 (Atmel Prog Reset)   
+pin 24 -- GPIO8 (Atmel Chip Reset)   
+pin 27 -- GPIO0 (or maybe ID_SD or maybe EEPROM SDA or maybe HAT ID)   
+pin 28 -- GPIO1 (or maybe ID_SC or maybe EEPROM SCL or maybe HAT ID)   
+LED2472G connected via an Atmel ATTINY88 (0x46)   
+LSM9DS1 IMU magnetometer 0x1c(0x1e) and accelerometer/gyroscope 0x6a(0x6b)   
+LPS25H Pressure/Temperature sensor (0x5c)   
+HTS221 Humidity/Temperature sensor (0x5f)   
