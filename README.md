@@ -10,6 +10,6 @@
 |Project choice on bb discussion board |           |
 | Sensor/effector name:                |           |
 | I2C address:                         |           |
-| a link to where you will buy it from:|           |
+| A link to where you will buy it from:|           |
 ## Possible choices:   
 See [Project Introduction](https://github.com/PrototypeZone/ceng317/blob/main/projectintroduction.md)   
