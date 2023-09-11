@@ -118,7 +118,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 4. Nathaniel Lozano [SparkFun 9DoF IMU Breakout - ICM - 20948](https://www.sparkfun.com/products/15335) (0x69, 0x68 with Jumper)
 5. Abdicasis Ali [SparkFun Temperature Sensor - STTS22H (Qwiic)](https://www.sparkfun.com/products/21262) (0x3C)
 6. Kaiden Phillip [SparkFun RFID Qwiic Reader](https://www.sparkfun.com/products/15191) and [RFID Reader ID-12LA (125 kHz)](https://www.sparkfun.com/products/11827) (0x7D)
-7. Damanpreet Singh [SparkFun Spectral Sensor Breakout - AS7262 Visible (Qwiic)](https://www.sparkfun.com/products/14347) (0x49)
+7. Damanpreet Singh [SparkFun Spectral Sensor Breakout - AS7262 Visible (Qwiic) - May change](https://www.sparkfun.com/products/14347) (0x49)
 8. Illia Popov [Ultrasonic Distance Sensor with I2C Interface](https://www.adafruit.com/product/4742) (0x57 doesn't share I2C 100%)
 9. Aaron Morris Jara [Person Sensor by Useful Sensors](https://www.sparkfun.com/products/21231) (0x62)
 10. Muhammad Desai [SparkFun Humidity Sensor Breakout](https://www.sparkfun.com/products/16467) (0x70)
@@ -126,11 +126,22 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 12. Emiliyano Ilia [SparkFun Digital Temperature Sensor - TMP102 (Qwiic)](https://www.sparkfun.com/products/16304) (0x48 by default, 0x49, 0x4A, 0x4B)
 13. Ali Sunan Faizi [Qwiic MicroPressure Sensor](https://www.sparkfun.com/products/16476) (0x18)
 14. Dylan Ashton [Proximity Sensor Breakout VCNL4040 (Qwiic)](https://www.sparkfun.com/products/15177) (0x60)
-15. Gobind Matharu [SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic)](https://www.sparkfun.com/products/14349) (0x64, jumper selectable to 0x65 or 0x67)
+15. Gobind Matharu [SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic)](https://www.sparkfun.com/products/14349) (0x64, jumper selectable to 0x65 or 0x67) changed to [Distance Sensor - 1.3 Meter, VL53L4CD (Qwiic)](https://www.sparkfun.com/products/18993) (0x29)
 16. Patrik Prenga [Pulse Oximeter and Heart Rate Sensor - MAX30101 & MAX32664 (Qwiic)](https://www.sparkfun.com/products/15219) (0x55)
 17. Ahmad Aljawish [Triple Axis Magnetometer Breakout - MLX90393 (Qwiic)](https://www.sparkfun.com/products/14571) (0xC0)
 18. Jason Macdonald [Triple Axis Accelerometer Breakout - KX134](https://www.sparkfun.com/products/17589) (0x1E, 0x1F alternate)
 19. Devonte Williams [6 Degrees of Freedom Breakout - LSM6DSO](https://www.sparkfun.com/products/18020) (default 0x6B, 0x6A)
+20. Steven Lambrinos [Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)](https://www.sparkfun.com/products/14722) (0x29)
+21. Enrique Robles [9DoF IMU Breakout - ISM330DHCX, MMC5983MA](https://www.sparkfun.com/products/19895) (Qwiic) (Default 0x6B, Alternate 0x6A)
+22. Mi Nam Alcantara [Velleman Soil Moisture Sensor?](https://secure.sayal.com/STORE4/prodetails.php?SKU=258280) (0x28?)
+23. Nitesh Kumar [Water Level Module?](https://secure.sayal.com/STORE4/prodetails.php?SKU=258280) (0x48?)
+24. Michael Carinci [High Accuracy MAX30205MTA MAX30205 Human Body Temperature Sensor](https://www.amazon.ca/Accuracy-MAX30205MTA-Temperature-Measuring-Wristband/dp/B09PZDVMSS) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x48, 0x4D)
+25. Tajinder Notta [Qwiic Scale - NAU7802](https://www.sparkfun.com/products/15242) plus a Load Cell (0x2A)
+26. Cedric Miguel Mercado [6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) (0x68)
+27. David Ankrah [9DoF IMU Breakout - ICM-20948](https://www.sparkfun.com/products/15335) (Qwiic) (0x69)
+28. Ishanjot Dhahan [Environmental Sensor Breakout - BME680](https://www.sparkfun.com/products/16466) (default 0x77, 0x76)
+29. William Margalik Optical odometer such as Breakout for ADNS2620 Optical Mouse Sensor
+30. Lucas Szwagiel [BH1750 Light Intensity Sensor](https://www.addicore.com/products/bh1750-light-intensity-sensor) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x23, 0x5C)
 
 ## Past sensors/effectors
 ADC needed for analog sensors   
