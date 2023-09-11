@@ -133,7 +133,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 19. Devonte Williams [6 Degrees of Freedom Breakout - LSM6DSO](https://www.sparkfun.com/products/18020) (default 0x6B, 0x6A)
 20. Steven Lambrinos [Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)](https://www.sparkfun.com/products/14722) (0x29)
 21. Enrique Robles [9DoF IMU Breakout - ISM330DHCX, MMC5983MA](https://www.sparkfun.com/products/19895) (Qwiic) (Default 0x6B, Alternate 0x6A)
-22. Mi Nam Alcantara [Velleman Soil Moisture Sensor?](https://secure.sayal.com/STORE4/prodetails.php?SKU=258280) (0x28?)
+22. Mi Nam Alcantara [Velleman Soil Moisture Sensor?](https://secure.sayal.com/STORE4/prodetails.php?SKU=258280) (0x28?) perhaps [Qwiic Soil Moisture Sensor](https://www.sparkfun.com/products/17731)?
 23. Nitesh Kumar [Water Level Module?](https://secure.sayal.com/STORE4/prodetails.php?SKU=258280) (0x48?)
 24. Michael Carinci [High Accuracy MAX30205MTA MAX30205 Human Body Temperature Sensor](https://www.amazon.ca/Accuracy-MAX30205MTA-Temperature-Measuring-Wristband/dp/B09PZDVMSS) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x48, 0x4D)
 25. Tajinder Notta [Qwiic Scale - NAU7802](https://www.sparkfun.com/products/15242) plus a Load Cell (0x2A)
@@ -206,6 +206,6 @@ MS5607/MS5611 Barometric Pressure (0x76)
 BME280 Temp/Barometric/Humidity (0x77)   
 PN532 NFC/RFID reader (Use UART pins 8:TX and 10:RX)   
 [Conversion of cheap optical mouse to robot odometer](https://blog.jgc.org/2012/09/conversion-of-cheap-optical-mouse-to.html)   
-[Further to the above](https://www.instructables.com/Interfacing-With-a-Mouse-Sensor-ADNS-3050/)   
+[Further to the above](https://www.instructables.com/Interfacing-With-a-Mouse-Sensor-ADNS-3050/), [alternate](https://www.hackteria.org/wiki/Hacked_Optical_Mouse).   
 
 Consider adding: a spare header, an npn transistor with a 2.2 kOhm resistor between the GPIO and the base of the transistor, connect the emitter to the ground, and connect an LED with a series 330 Ohm resistor on the collector side.
