@@ -187,5 +187,7 @@ PCA9685 16-channel PWM driver (0x75)
 MS5607/MS5611 Barometric Pressure (0x76)   
 BME280 Temp/Barometric/Humidity (0x77)   
 PN532 NFC/RFID reader (Use UART pins 8:TX and 10:RX)   
+[Conversion of cheap optical mouse to robot odometer](https://blog.jgc.org/2012/09/conversion-of-cheap-optical-mouse-to.html)   
+[Further to the above](https://www.instructables.com/Interfacing-With-a-Mouse-Sensor-ADNS-3050/)   
 
 Consider adding: a spare header, an npn transistor with a 2.2 kOhm resistor between the GPIO and the base of the transistor, connect the emitter to the ground, and connect an LED with a series 330 Ohm resistor on the collector side.
