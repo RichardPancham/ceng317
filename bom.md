@@ -1,4 +1,5 @@
 # Bill Of Materials
+Clicking on the part should take the reader to the item on the intended vendor's website.
 | Part                                                                                             |Price in CAD|Quantity|Shipping Cost|Duty|Tax|Subtotal Paid|Subtotal propose to order|Expected Arrival Date|
 |--------------------------------------------------------------------------------------------------|------------|--------|-------------|----|---|-------------|-------------------------|---------------------|
 |[Raspberry Pi Extreme Kit](https://www.canakit.com/raspberry-pi-4-extreme-kit.html)               |     144.95 |      1 |             |    |   |      144.95 |                         |          Semester 2 |
