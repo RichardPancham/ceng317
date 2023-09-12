@@ -14,4 +14,7 @@ Clicking on the part should take the reader to the item on the intended vendor's
 |Standoffs                                                                                         |        TBD |      4 |             |    |   |             |                     TBD |        Reading Week |
 |Screws                                                                                            |        TBD |      4 |             |    |   |             |                     TBD |        Reading Week |
 |PCB                                                                                               |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
+|Acrylic                                                                                           |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
+|Laser Cutting                                                                                     |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
+|3D Printing                                                                                       |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
 | **Totals**                                                                                       |            |        |             |    |   |             |             **<100.00** |                     |
