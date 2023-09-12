@@ -73,7 +73,7 @@ HTS221 Humidity/Temperature sensor (0x5f)
 - It will include a [Stacking Header](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1979/6238003).
 - It will include a [Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746) to make use of [Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723).
 - Use [KiCad 6](https://github.com/KiCad/kicad-source-mirror/releases/download/6.0.10/kicad-6.0.10-x86_64.exe)
-- Standoffs, screws tdb   
+- Standoffs, screws to be specified on [Bill Of Materials](https://github.com/PrototypeZone/ceng317/blob/main/bom.md)   
 
 ## Additional sensor/effector options include:
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
