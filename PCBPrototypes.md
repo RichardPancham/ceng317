@@ -10,7 +10,7 @@ What we require:
 
 Limitations:
 
-![](media/image1.png)
+![Plating](plated.png)
 
 2 Copper Layers
 
