@@ -6,5 +6,10 @@
 |[SenseHat](https://www.digikey.ca/en/products/detail/raspberry-pi/SENSE-HAT/6196429)              |      43.16 |      1 |             |    |   |             |                         |          Semester 2 |
 |[Network adapter](https://www.amazon.ca/Cable-Matters-SuperSpeed-Gigabit-Ethernet/dp/B00BBD7NFU)  |      20.99 |      1 |             |    |   |             |                         |          Semester 2 |
 |[Ethernet cable](https://www.amazon.ca/StarTech-com-Cat5e-Ethernet-Cable1-Snagless/dp/B0002XGHBQ) |       9.49 |      1 |             |    |   |             |                         |          Semester 2 |
-
+|[Stacking Header](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1979/6238003) |       4.24 |      1 |             |    |   |             |                         |        Reading Week |
+|[Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746)  |       0.81 |      1 |             |    |   |             |                         |        Reading Week |
+|[Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723)  |      12.88 |      1 |             |    |   |             |                         |        Reading Week |
+|Standoffs                                                                                         |        TBD |      4 |             |    |   |             |                         |        Reading Week |
+|Screws                                                                                            |        TBD |      4 |             |    |   |             |                         |        Reading Week |
+|PCB                                                                                               |        TBD |      1 |             |    |   |             |                         |        Reading Week |
 | **Totals**                                                                                       |            |        |             |    |   |             |             **<100.00** |                     |
