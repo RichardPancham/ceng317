@@ -68,6 +68,13 @@ LSM9DS1 IMU magnetometer 0x1c(0x1e) and accelerometer/gyroscope 0x6a(0x6b)
 LPS25H Pressure/Temperature sensor (0x5c)   
 HTS221 Humidity/Temperature sensor (0x5f)   
 
+## Your Custom interface board to fit between your Sense Hat and your Broadcom Single board computer
+- Ideally it would comply with the [Raspberry Pi Hardware Attached on Top specifications](https://github.com/raspberrypi/hats) including an [EEPROM](https://www.digikey.ca/en/products/base-product/onsemi/488/CAT24C256/56536).
+- It will include a [Stacking Header](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1979/6238003).
+- It will include a [Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746) to make use of [Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723).
+- Use [KiCad 6](https://github.com/KiCad/kicad-source-mirror/releases/download/6.0.10/kicad-6.0.10-x86_64.exe)
+- Standoffs, screws tdb   
+
 ## Additional sensor/effector options include:
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
 https://www.sparkfun.com/categories/tags/qwiic-distance   
