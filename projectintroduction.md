@@ -145,7 +145,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 24. Michael Carinci [High Accuracy MAX30205MTA MAX30205 Human Body Temperature Sensor](https://www.amazon.ca/Accuracy-MAX30205MTA-Temperature-Measuring-Wristband/dp/B09PZDVMSS) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x48, 0x4D)
 25. Tajinder Notta [Qwiic Scale - NAU7802](https://www.sparkfun.com/products/15242) plus a Load Cell (0x2A)
 26. Cedric Miguel Mercado [6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) (0x68)
-    Group members include Melvin, Youngkyu, and Davyd Tsapko with [INA219](https://www.adafruit.com/product/904)
+    Group members include Melvin, Youngkyu, and Davyd Tsapko with [INA219](https://www.adafruit.com/product/904) (Default 0x40, A0 soldered 0x41, A1 soldered 0x44, A0 and A1 soldered 0x45)
 28. David Ankrah [9DoF IMU Breakout - ICM-20948](https://www.sparkfun.com/products/15335) (Qwiic) (0x69)
 29. Ishanjot Dhahan [Environmental Sensor Breakout - BME680](https://www.sparkfun.com/products/16466) (default 0x77, 0x76)
 30. William Margalik Optical odometer such as Breakout for ADNS2620 Optical Mouse Sensor
