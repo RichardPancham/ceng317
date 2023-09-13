@@ -153,6 +153,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 32. Komal Devi [SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic)](https://www.sparkfun.com/products/14349) (0x64, jumper selectable to 0x65 or 0x67)
 33. Calvin Naidu [Ambient Light Sensor - VEML7700 (Qwiic)](https://www.sparkfun.com/products/18981) (0x10)
 34. Alfred Dowuona [Ambient Light Sensor - VEML6030 (Qwiic)](https://www.sparkfun.com/products/15436) (Default 0x48 but using jumper to choose 0x10) Group David, Kaiden, Steven.
+35. Richard Peoples [High Precision Temperature Sensor - TMP117 (Qwiic)](https://www.sparkfun.com/products/15805) (0x48)
 
 ## Past sensors/effectors
 ADC needed for analog sensors   
