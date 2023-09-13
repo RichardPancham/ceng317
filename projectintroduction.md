@@ -150,7 +150,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 29. William Margalik Optical odometer such as Breakout for ADNS2620 Optical Mouse Sensor
 30. Lucas Szwagiel [BH1750 Light Intensity Sensor](https://www.addicore.com/products/bh1750-light-intensity-sensor) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x23, 0x5C)
 31. Komal Devi [SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic)](https://www.sparkfun.com/products/14349) (0x64, jumper selectable to 0x65 or 0x67)
-32. Youngkyu Chung [6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) (0x68)
+32. 
 
 ## Past sensors/effectors
 ADC needed for analog sensors   
