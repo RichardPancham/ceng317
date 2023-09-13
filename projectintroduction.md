@@ -145,12 +145,13 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 24. Michael Carinci [High Accuracy MAX30205MTA MAX30205 Human Body Temperature Sensor](https://www.amazon.ca/Accuracy-MAX30205MTA-Temperature-Measuring-Wristband/dp/B09PZDVMSS) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x48, 0x4D)
 25. Tajinder Notta [Qwiic Scale - NAU7802](https://www.sparkfun.com/products/15242) plus a Load Cell (0x2A)
 26. Cedric Miguel Mercado [6DoF IMU Breakout - BMI270 (Qwiic)](https://www.sparkfun.com/products/22397) (0x68)
-27. David Ankrah [9DoF IMU Breakout - ICM-20948](https://www.sparkfun.com/products/15335) (Qwiic) (0x69)
-28. Ishanjot Dhahan [Environmental Sensor Breakout - BME680](https://www.sparkfun.com/products/16466) (default 0x77, 0x76)
-29. William Margalik Optical odometer such as Breakout for ADNS2620 Optical Mouse Sensor
-30. Lucas Szwagiel [BH1750 Light Intensity Sensor](https://www.addicore.com/products/bh1750-light-intensity-sensor) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x23, 0x5C)
-31. Komal Devi [SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic)](https://www.sparkfun.com/products/14349) (0x64, jumper selectable to 0x65 or 0x67)
-32. 
+    Group members include Melvin, Youngkyu, and Davyd Tsapko with [INA219](https://www.adafruit.com/product/904)
+28. David Ankrah [9DoF IMU Breakout - ICM-20948](https://www.sparkfun.com/products/15335) (Qwiic) (0x69)
+29. Ishanjot Dhahan [Environmental Sensor Breakout - BME680](https://www.sparkfun.com/products/16466) (default 0x77, 0x76)
+30. William Margalik Optical odometer such as Breakout for ADNS2620 Optical Mouse Sensor
+31. Lucas Szwagiel [BH1750 Light Intensity Sensor](https://www.addicore.com/products/bh1750-light-intensity-sensor) plus [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495) (default 0x23, 0x5C)
+32. Komal Devi [SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic)](https://www.sparkfun.com/products/14349) (0x64, jumper selectable to 0x65 or 0x67)
+33. 
 
 ## Past sensors/effectors
 ADC needed for analog sensors   
