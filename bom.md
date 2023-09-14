@@ -11,8 +11,8 @@ Clicking on the part should take the reader to the item on the intended vendor's
 |[Stacking Header](https://www.digikey.ca/en/products/detail/adafruit-industries-llc/1979/6238003) |       4.24 |      1 |             |    |   |             |                    4.24 |        Reading Week |
 |[Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746)  |       0.81 |      1 |             |    |   |             |                    0.81 |        Reading Week |
 |[Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723)  |      12.88 |      1 |             |    |   |             |                   12.88 |        Reading Week |
-|Standoffs                                                                                         |        TBD |      4 |             |    |   |             |                     TBD |        Reading Week |
-|Screws                                                                                            |        TBD |      4 |             |    |   |             |                     TBD |        Reading Week |
+|[16mm Standoff](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/971160151/6174641)|       1.11 |      4 |             |    |   |             |                    4.44 |        Reading Week |
+|M2.5 14.5mm Screw                                                                                 |        TBD |      4 |             |    |   |             |                     TBD |        Reading Week |
 |PCB                                                                                               |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
 |Acrylic                                                                                           |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
 |Laser Cutting                                                                                     |        TBD |      1 |             |    |   |             |                     TBD |        Reading Week |
