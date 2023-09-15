@@ -191,7 +191,7 @@ HDC1008 Humidity/Temp sensor (0x42)
 ISL29125 Color Sensor (0x44)   
 SHT31 Humidity/Temp sensor (0x45)   
 TMP006 IR Temperature sensor (0x46)   
-retired product https://www.sparkfun.com/products/retired/11859, it is also discontinued here https://www.adafruit.com/product/1296 and here https://www.adafruit.com/product/2023, out of stock https://www.adafruit.com/product/1747   
+TMP006 is a retired product https://www.sparkfun.com/products/retired/11859, it is also discontinued here https://www.adafruit.com/product/1296 and TMP007 here https://www.adafruit.com/product/2023, even Melexis Contact-less Infrared Sensor - MLX90614 3V - MLX90614ESF-BAA is out of stock https://www.adafruit.com/product/1747   
 TMP007 IR Temperature sensor (0x47)   
 YL-40 PCF8591 (0x48)   
 TSL2561 light sensor (0x49)   
