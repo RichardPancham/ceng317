@@ -5,8 +5,9 @@
 2. Project Selection (Contact me via course messages if you have yet to choose one)
 3. [Bill Of Materials](bom.md) (and 3D printing)
 4. Project Roadmap, safety, parts kit
-5. Proof of purchase
-6. Soldering (each group gets a practice board)
+5. Proof of purchase, (CorelDraw for Monday section)
+6. CorelDraw for Wednesday section (Thanksgiving)
+7. Soldering (each group gets a practice board)
 
 ## Background
 
