@@ -1,5 +1,12 @@
 # Project Introduction
 
+## Weeks
+1. First Class Sheet
+2. Project Selection
+3. Bill of Materials (and 3D printing)
+
+## Background
+
 Our focus has been on six areas of ongoing/continuing multi-year work. In these areas, we welcomed brief project charters from industry that proposed the scope, mandate, and contain the system specification (design approach and requirements).
 
 1. Facilities: Bicycle Rental/Parking Lot/Vision System
