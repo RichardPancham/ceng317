@@ -2,10 +2,11 @@
 
 ## Weeks
 1. First Class Sheet
-2. Project Selection
+2. Project Selection (Contact me via course messages if you have yet to choose one)
 3. [Bill Of Materials](bom.md) (and 3D printing)
-4. Project Roadmap
+4. Project Roadmap, safety, parts kit
 5. Proof of purchase
+6. Soldering (each group gets a practice board)
 
 ## Background
 
