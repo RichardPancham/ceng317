@@ -91,7 +91,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 4. TCS34725 Colour Sensor (0x29)
 5. Total Dissolved Solids-ADC Converter (CQRSENTDS01 and ADS1115) (0x48, switchable to 0x49)
 6. ADXL-345 Accelerometer (0x53)
-7. TMP006 Contact-less Infrared Thermopile Sensor (0x40) obselete
+7. TMP006 Contact-less Infrared Thermopile Sensor (0x40) obsolete
 8. MAX30102 Oximeter and Heart Rate Sensor (0x57)
 9. [SparkFun Qwiic Adapter for non-qwiic sensors](https://www.sparkfun.com/products/14495)   
     [9DoF IMU - MPU-9250](https://www.sparkfun.com/products/15335)   
