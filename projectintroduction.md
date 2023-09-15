@@ -4,6 +4,8 @@
 1. First Class Sheet
 2. Project Selection
 3. [Bill Of Materials](bom.md) (and 3D printing)
+4. Project Roadmap
+5. Proof of purchase
 
 ## Background
 
