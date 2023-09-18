@@ -62,6 +62,9 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
 - Vending Machine
 - Book/Equipment Sign-out System
 - Air monitoring
+- Next bus sign
+- Touchfree washroom
+- Solar battery charger
 
 ## Your Existing Sense Hat
 In addition to power and ground the sense hat uses:   
