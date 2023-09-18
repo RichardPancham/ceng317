@@ -169,8 +169,9 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 36. B Melvin Carl Pote [Qwiic Mini dToF Imager - TMF8821](https://www.sparkfun.com/products/19451) (0x41) changed to [Triple Axis Accelerometer Breakout - KX132 (Qwiic)](https://www.sparkfun.com/products/17871) (0x1E, alternate 0x1F)
 37. A Taksim Islam [Micro Temperature Sensor - STTS22H (Qwiic)](https://www.sparkfun.com/products/21273) (default 0x3C, 0x38)
 38. A Alex Fontaine-Bolanos [Indoor Air Quality Sensor - ENS160 (Qwiic)](https://www.sparkfun.com/products/20844) (Default 0x53, 0x52)
-39. B Ali Mohebi
-40. Sebastian Luis Liquid Level Sensor - 8"
+39. B Ali Mohebi See reply on Discussion Board
+40. B Sebastian Luis [Liquid Level Sensor - 8"](https://www.sparkfun.com/products/10221) with [Qwiic 12 Bit ADC - 4 Channel (ADS1015)](https://www.sparkfun.com/products/15334) (default 0x48, 0x49, 0x4A, 0x4B)
+41. 
 
 ## Past sensors/effectors
 ADC needed for analog sensors   
