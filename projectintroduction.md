@@ -170,6 +170,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
 37. A Taksim Islam [Micro Temperature Sensor - STTS22H (Qwiic)](https://www.sparkfun.com/products/21273) (default 0x3C, 0x38)
 38. A Alex Fontaine-Bolanos [Indoor Air Quality Sensor - ENS160 (Qwiic)](https://www.sparkfun.com/products/20844) (Default 0x53, 0x52)
 39. B Ali Mohebi
+40. Sebastian Luis Liquid Level Sensor - 8"
 
 ## Past sensors/effectors
 ADC needed for analog sensors   
