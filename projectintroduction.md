@@ -54,7 +54,7 @@ In CENG 317, students learn how to create the embedded modules. In CENG 322, stu
     - -4 *Preparatory Signal* P Flag Up, Horn 
     - -1 *One to go warning* P Flag Down, Long Horn 
     - 0 *Start* Red Shape down, Horn 
-- Autonomous Electric Vehicle
+- Autonomous Electric Skidsteer
 - Microwave
 - Traffic light
 - Traffic counter
