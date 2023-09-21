@@ -14,7 +14,7 @@ Clicking on the part should take the reader to the item on the intended vendor's
 |[16mm Standoff](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/971160151/6174641)|       1.11 |      4 |             |    | 0.58|             |                    5.02 |      *Reading Week* |
 |[M2.5 Screw](https://www.digikey.ca/en/products/detail/essentra-components/50M025045I016/11638680)|       0.26 |      4 |             |    | 0.14|             |                    1.18 |      *Reading Week* |
 |[Leadfree Solder](https://www.mouser.ca/ProductDetail/AIM/13949?qs=M7ZD%2F0QMIQw6T6JK0szTqg%3D%3D)|      96.11 |   0.02 |             |    |     |        1.92 |                         |        Reading Week |
-|[PCB](https://github.com/PrototypeZone/ceng317/blob/main/PCBPrototypes.md)                        |       6.62 |      1 |             |    |     |        6.62 |                         |        Reading Week |
+|[PCB](https://github.com/PrototypeZone/ceng317/blob/main/hardware/PCBPrototypes.md)               |       6.62 |      1 |             |    |     |        6.62 |                         |        Reading Week |
 |3mm Acrylic 12"x24"                                                                               |       7.18 |      1 |             |    |     |        7.18 |                         |        Reading Week |
 |[Laser Cutting](https://designandbuiltlabs.simplybook.me/v2/#book/category/2/service/11/count/1/) |      1/min |    TBD |             |    |     |       1/min |                         |        Reading Week |
 |[3D Printing](https://sites.google.com/view/idealab3dprinting/tutorial)                           |  0.15/gram |    TBD |             |    |     |   0.15/gram |                         |        Reading Week |
