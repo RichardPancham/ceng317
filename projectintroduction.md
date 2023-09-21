@@ -9,6 +9,12 @@
 6. Proof of purchase, (CorelDraw for Monday section)
 7. CorelDraw for Wednesday section (Thanksgiving)
 8. Soldering (each group gets a practice board)
+9. Soldering
+10. Coding
+11. Troubleshooting
+12. Demonstration
+13. Presentations
+14. Build instructions (Hardware report)
 
 ## Background
 
