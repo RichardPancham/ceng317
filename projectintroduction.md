@@ -4,7 +4,7 @@
 1. First Class Sheet
 2. Project Selection (Contact me via course messages if you have yet to choose one)
 3. [Bill Of Materials](bom.md) (and 3D printing) remember for next week to bring safety glasses if you don't already wear eyeglasses, parts kit, as well as Raspberry Pi kit every class from next week on.
-   ![pcbstacking](pcbstacking.png)
+   ![pcbstacking](media/pcbstacking.png)
 5. Project Roadmap, bring safety glasses if you don't already wear eyeglasses, parts kit, as well as Raspberry Pi kit every class from now on.
 6. Proof of purchase, (CorelDraw for Monday section)
 7. CorelDraw for Wednesday section (Thanksgiving)
@@ -30,10 +30,10 @@ Times have changed, now you use your smart phone to provide your credit card inf
 ![dropbike](https://humber.ca/staff/sites/default/files/sub-images/dropbike%20lake%20and%20north.jpg)
 
 The Computer Engineering Technology capstone consists of creating project similar to this. In this example there is a lock mechanism, a set of buttons to enter a code, lights and sound to provide feedback.
-![Bikeshare](bikeshare.jpg)
+![Bikeshare](media/bikeshare.jpg)
 
 In CENG 317, students learn how to create the embedded modules. In CENG 322, students learn how to write the corresponding app. In CENG 355, the group would package everything up together as a functioning prototype.
-![NetworkArchitectureFall2018separate](NetworkArchitectureFall2018separate.jpg)
+![NetworkArchitectureFall2018separate](media/NetworkArchitectureFall2018separate.jpg)
 
 - Overall project maximum dimensions of 12 13/16" x 6" x 2 7/8" (32.5cm x 15.25cm x 7.25cm) which represents the space below the tray in the parts kit.
 - Project case to be designed for 3D printing/laser cutting.
