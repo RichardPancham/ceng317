@@ -7,7 +7,7 @@
 
 ## Limitations:
 
-![Plating](media/plated.png)
+![Plating](/media/plated.png)
 
 - 2 Copper Layers
 - No Soldermask
