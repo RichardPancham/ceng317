@@ -134,7 +134,7 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
     [Battery Babysitter - BQ24075](https://www.sparkfun.com/products/13777)   
 
 ## Fall 2023 Sensor/effector choices:
-###CENG 322 Group Number
+### CENG 322 Group Number
 1.   
 2.   
 3.   
