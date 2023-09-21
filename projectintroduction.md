@@ -134,6 +134,20 @@ Note: Stemma QT uses the same 4 Pin JST SH 1.0mm pitch connectors as Qwiic (Blac
     [Battery Babysitter - BQ24075](https://www.sparkfun.com/products/13777)   
 
 ## Fall 2023 Sensor/effector choices:
+CENG 322 Group Number
+1.   
+2.   
+3.   
+4.   
+5.   
+6.   
+7.   
+8.   
+9.   
+10.   
+11.   
+12.  
+
 1. B Jared Craig [SparkFun Photodetector Breakout - MAX30101 (Qwiic)](https://www.sparkfun.com/products/16474) (0x57)
 2. B Robert Rowlison [SparkFun Ambient Light Sensor - VEML6030 (Qwiic)](https://www.sparkfun.com/products/15436) (0x48)
 3. B Faraz Ahmed [SparkFun Qwiic Mini ToF Imager - VL53L5CX](https://www.sparkfun.com/products/19013) (0x52) changed to [Capacitive Touch Slider - CAP1203 (Qwiic)](https://www.sparkfun.com/products/15344) (0x28)
