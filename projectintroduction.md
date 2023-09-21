@@ -3,7 +3,7 @@
 ## Weeks
 1. First Class Sheet
 2. Project Selection (Contact me via course messages if you have yet to choose one)
-3. [Bill Of Materials](bom.md) (and 3D printing) remember for next week to bring safety glasses if you don't already wear eyeglasses, parts kit, as well as Raspberry Pi kit every class from next week on.
+3. [Bill Of Materials](hardware/bom.md) (and 3D printing) remember for next week to bring safety glasses if you don't already wear eyeglasses, parts kit, as well as Raspberry Pi kit every class from next week on.
    ![pcbstacking](media/pcbstacking.png)
 5. Project Roadmap, bring safety glasses if you don't already wear eyeglasses, parts kit, as well as Raspberry Pi kit every class from now on.
 6. Proof of purchase, (CorelDraw for Monday section)
@@ -88,7 +88,7 @@ HTS221 Humidity/Temperature sensor (0x5f)
 - It will include a [Stacking Header](https://www.digikey.com/en/products/detail/adafruit-industries-llc/1979/6238003).
 - It will include a [Qwiic socket](https://www.digikey.ca/en/products/detail/sparkfun-electronics/PRT-14417/7652746) to make use of [Qwiic Cables](https://www.digikey.ca/en/products/detail/sparkfun-electronics/KIT-15081/9770723).
 - Use [KiCad 6](https://github.com/KiCad/kicad-source-mirror/releases/download/6.0.10/kicad-6.0.10-x86_64.exe)
-- Standoffs, screws to be specified on [Bill Of Materials](bom.md)   
+- Standoffs, screws to be specified on [Bill Of Materials](hardware/bom.md)   
 
 ## Additional sensor/effector options include:
 https://www.sparkfun.com/categories/tags/qwiic-imaging   
